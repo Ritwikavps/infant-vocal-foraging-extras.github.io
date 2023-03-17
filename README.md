@@ -1,3 +1,5 @@
-# infant-vocal-foraging-extras.github.io
+# The dynamics of infant vocal trajectories in acoustic space
 
-You and your sister microbes are being inundated with a toxin. You have to choose among spending your energy on measuring toxin concentrations in your environment, degrading the toxin, or reproducing. What do you prioitize? Should you and your (genetically identical) sister cells all follow the same strategy, or should you diversify (phenotypic heterogeneity)? This is a question faced by real microbes, but they don't have the benefit of centralized decision-making. The Pheno-Evo model allows you to explore the best possible solutions, and to test whether evolution can solve the problem.
+This is where all the fun extra material for the `infant vocal foraging' research project is stashed for now. I hope to move all this to a proper website soon, and will make sure the link that took you here will redirect there. 
+
+You can find a sample vocalisation snippet from a newborn **[here](https://Ritwikavps.github.io/infant-vocal-foraging-extras.github.io/sample-vocalisations)**
