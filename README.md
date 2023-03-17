@@ -1,3 +1,3 @@
 # infant-vocal-foraging-extras.github.io
 
-Hello!
+You and your sister microbes are being inundated with a toxin. You have to choose among spending your energy on measuring toxin concentrations in your environment, degrading the toxin, or reproducing. What do you prioitize? Should you and your (genetically identical) sister cells all follow the same strategy, or should you diversify (phenotypic heterogeneity)? This is a question faced by real microbes, but they don't have the benefit of centralized decision-making. The Pheno-Evo model allows you to explore the best possible solutions, and to test whether evolution can solve the problem.
